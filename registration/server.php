@@ -8,12 +8,12 @@ $errors = array();
 
 // connect to the database
 
-$servername="127.0.0.1";
-$dBUsername="root";
-$dBPassword="kazi33A";
-$dBName="registration";
+$servername="";
+$dBUsername="";
+$dBPassword="";
+$dBName="";
 
-$db = mysqli_connect('127.0.0.1', 'root', "kazi33A", 'registration');
+$db = mysqli_connect('');
 
 
 
